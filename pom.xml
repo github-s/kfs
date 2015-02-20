@@ -26,7 +26,7 @@
   </parent>
   <groupId>org.kuali.kfs</groupId>
   <artifactId>kfs</artifactId>
-  <version>6.0.0-release-process-test</version>
+  <version>6.0.1-release-process-test-SNAPSHOT</version>
   <name>Kuali Financial System</name>
   <inceptionYear>2004</inceptionYear>
   <packaging>war</packaging>
@@ -39,7 +39,7 @@
     <developerConnection>scm:git:git@github.com:kuali/kfs.git</developerConnection>
     <connection>scm:git:git@github.com:kuali/kfs.git</connection>
     <url>https://github.com/kuali/kfs/tree/${project.scm.tag}</url>
-    <tag>kfs-6.0.0-release-process-test</tag>
+    <tag>master</tag>
   </scm>
 
   <developers>
